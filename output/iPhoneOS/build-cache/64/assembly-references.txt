@@ -1,0 +1,9 @@
+/Users/rafael/Workspace/cs/PCLTest/PCLTest/bin/Debug/PCLTest.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/System.Core.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/System.ComponentModel.Composition.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Debug.dll

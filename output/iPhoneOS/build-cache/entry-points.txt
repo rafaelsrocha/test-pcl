@@ -1,0 +1,9 @@
+Function=xamarin_timezone_get_data
+	/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/build-cache/64/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/build-cache/64/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+Function=mono_pmip

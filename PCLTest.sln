@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCLTest", "PCLTest\PCLTest.csproj", "{C8F17086-5918-4F9E-BC0A-BC19BC05CD32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F17086-5918-4F9E-BC0A-BC19BC05CD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F17086-5918-4F9E-BC0A-BC19BC05CD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F17086-5918-4F9E-BC0A-BC19BC05CD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F17086-5918-4F9E-BC0A-BC19BC05CD32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

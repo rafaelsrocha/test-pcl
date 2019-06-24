@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/PCLTest:/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/build-cache/32/1-Link/PCLTest.dll
+/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/PCLTest:/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/build-cache/32/1-Link/mscorlib.dll
+/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/PCLTest:/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/build-cache/32/1-Link/System.dll
+/Users/rafael/Workspace/cs/PCLTest/output/iPhoneOS/PCLTest:/Library/Frameworks/Xamarin.iOS.framework/Versions/12.10.0.157/lib/mono/Xamarin.iOS/../../32bits/Xamarin.iOS.dll
